@@ -14,7 +14,7 @@
     "url": "git@github.com/MatthewGrisham/e-commerce-back-end.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Matthew Grisham",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.3"
