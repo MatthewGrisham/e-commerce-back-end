@@ -15,6 +15,8 @@
 ![GET All by ID](./assets/getbyid.gif)
 
 ![POST PUT DELETE Tags](./assets/put%2Cpost%2Cdelete.gif)
+
+A full video of the walkthrough is in the Assets folder.
   
 ## User Story
   
